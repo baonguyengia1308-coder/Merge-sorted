@@ -1,1 +1,11 @@
-# Merge-sorted
+# 148. Sort List
+
+Given the `head` of a linked list, return *the list after sorting it in **ascending order***.
+
+---
+
+## 💡 Example & Visualization
+
+### Example 1:
+- **Input:** `head = [4, 2, 1, 3]`
+- **Output:** `[1, 2, 3, 4]`
